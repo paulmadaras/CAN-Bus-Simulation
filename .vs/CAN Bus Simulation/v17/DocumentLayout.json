@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|c:\\users\\paul\\desktop\\facultate\\an3\\scs\\p\\can bus simulation\\canbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|solutionrelative:canbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|solutionrelative:simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\ecuconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|solutionrelative:ecuconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\ecu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|solutionrelative:ecu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|solutionrelative:message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E70F70F-63ED-4FA8-A967-323D56D0993B}|CAN Bus Simulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECU.cs",
+              "DocumentMoniker": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\ECU.cs",
+              "RelativeDocumentMoniker": "ECU.cs",
+              "ToolTip": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\ECU.cs",
+              "RelativeToolTip": "ECU.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwGQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:40:49.154Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAswHkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T10:54:54.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CANBus.cs",
+              "DocumentMoniker": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\CANBus.cs",
+              "RelativeDocumentMoniker": "CANBus.cs",
+              "ToolTip": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\CANBus.cs",
+              "RelativeToolTip": "CANBus.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:41:16.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Message.cs",
+              "RelativeDocumentMoniker": "Message.cs",
+              "ToolTip": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Message.cs",
+              "RelativeToolTip": "Message.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAiwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:42:01.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:42:17.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Simulation.cs",
+              "RelativeDocumentMoniker": "Simulation.cs",
+              "ToolTip": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\Simulation.cs",
+              "RelativeToolTip": "Simulation.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T21:41:42.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ECUConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\ECUConfiguration.cs",
+              "RelativeDocumentMoniker": "ECUConfiguration.cs",
+              "ToolTip": "C:\\Users\\PAUL\\Desktop\\facultate\\an3\\SCS\\p\\CAN Bus Simulation\\ECUConfiguration.cs",
+              "RelativeToolTip": "ECUConfiguration.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:17:51.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

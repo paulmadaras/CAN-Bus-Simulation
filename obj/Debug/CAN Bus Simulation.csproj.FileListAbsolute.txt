@@ -1,0 +1,24 @@
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\CAN Bus Simulation.exe.config
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\CAN Bus Simulation.exe
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\CAN Bus Simulation.pdb
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\Lucene.Net.dll
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\NetTopologySuite.dll
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Buffers.dll
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Memory.dll
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\Lucene.Net.pdb
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\Lucene.Net.xml
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\NetTopologySuite.xml
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Buffers.xml
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Memory.xml
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\obj\Debug\CAN Bus Simulation.csproj.AssemblyReference.cache
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\obj\Debug\CAN Bus Simulation.csproj.CoreCompileInputs.cache
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\obj\Debug\CAN Bus .26503364.Up2Date
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\obj\Debug\CAN Bus Simulation.exe
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\obj\Debug\CAN Bus Simulation.pdb
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\obj\Debug\CAN_Bus_Simulation.Form1.resources
+C:\Users\PAUL\Desktop\facultate\an3\SCS\p\CAN Bus Simulation\obj\Debug\CAN Bus Simulation.csproj.GenerateResource.cache
